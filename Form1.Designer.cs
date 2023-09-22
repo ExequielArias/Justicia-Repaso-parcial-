@@ -84,7 +84,7 @@ namespace Justicia
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(326, 356);
+            this.label3.Location = new System.Drawing.Point(326, 386);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(37, 13);
             this.label3.TabIndex = 4;
@@ -95,7 +95,7 @@ namespace Justicia
             this.lblAlias.BackColor = System.Drawing.Color.Black;
             this.lblAlias.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAlias.ForeColor = System.Drawing.Color.Yellow;
-            this.lblAlias.Location = new System.Drawing.Point(326, 383);
+            this.lblAlias.Location = new System.Drawing.Point(326, 413);
             this.lblAlias.Name = "lblAlias";
             this.lblAlias.Size = new System.Drawing.Size(253, 23);
             this.lblAlias.TabIndex = 5;
@@ -105,7 +105,7 @@ namespace Justicia
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(326, 429);
+            this.label5.Location = new System.Drawing.Point(326, 459);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(100, 13);
             this.label5.TabIndex = 6;
@@ -116,7 +116,7 @@ namespace Justicia
             this.lblProfugoDesde.BackColor = System.Drawing.Color.Black;
             this.lblProfugoDesde.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProfugoDesde.ForeColor = System.Drawing.Color.Yellow;
-            this.lblProfugoDesde.Location = new System.Drawing.Point(326, 454);
+            this.lblProfugoDesde.Location = new System.Drawing.Point(326, 484);
             this.lblProfugoDesde.Name = "lblProfugoDesde";
             this.lblProfugoDesde.Size = new System.Drawing.Size(253, 23);
             this.lblProfugoDesde.TabIndex = 7;
